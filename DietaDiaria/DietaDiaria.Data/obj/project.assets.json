@@ -971,6 +971,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "dependencies": {
+          "DietaDiaria.Generics": "1.0.0",
           "FluentValidation": "8.4.0"
         },
         "compile": {
@@ -978,6 +979,20 @@
         },
         "runtime": {
           "bin/placeholder/DietaDiaria.Domain.dll": {}
+        }
+      },
+      "DietaDiaria.Generics/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "FluentValidation": "8.4.0",
+          "Microsoft.EntityFrameworkCore": "2.2.4"
+        },
+        "compile": {
+          "bin/placeholder/DietaDiaria.Generics.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DietaDiaria.Generics.dll": {}
         }
       }
     }
@@ -3693,6 +3708,11 @@
       "type": "project",
       "path": "../DietaDiaria.Domain/DietaDiaria.Domain.csproj",
       "msbuildProject": "../DietaDiaria.Domain/DietaDiaria.Domain.csproj"
+    },
+    "DietaDiaria.Generics/1.0.0": {
+      "type": "project",
+      "path": "../DietaDiaria.Generics/DietaDiaria.Generics.csproj",
+      "msbuildProject": "../DietaDiaria.Generics/DietaDiaria.Generics.csproj"
     }
   },
   "projectFileDependencyGroups": {

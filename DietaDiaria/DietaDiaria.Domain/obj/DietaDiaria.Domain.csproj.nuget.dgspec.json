@@ -29,6 +29,66 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Projects\\dieta-diaria\\DietaDiaria\\DietaDiaria.Generics\\DietaDiaria.Generics.csproj": {
+                "projectPath": "D:\\Projects\\dieta-diaria\\DietaDiaria\\DietaDiaria.Generics\\DietaDiaria.Generics.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Projects\\dieta-diaria\\DietaDiaria\\DietaDiaria.Generics\\DietaDiaria.Generics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\dieta-diaria\\DietaDiaria\\DietaDiaria.Generics\\DietaDiaria.Generics.csproj",
+        "projectName": "DietaDiaria.Generics",
+        "projectPath": "D:\\Projects\\dieta-diaria\\DietaDiaria\\DietaDiaria.Generics\\DietaDiaria.Generics.csproj",
+        "packagesPath": "C:\\Users\\Rogerio\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\dieta-diaria\\DietaDiaria\\DietaDiaria.Generics\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rogerio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
             "projectReferences": {}
           }
         },
@@ -44,6 +104,10 @@
             "FluentValidation": {
               "target": "Package",
               "version": "[8.4.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",

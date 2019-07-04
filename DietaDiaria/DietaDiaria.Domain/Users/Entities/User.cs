@@ -1,7 +1,7 @@
-﻿using DietaDiaria.Domain._Base;
+﻿using DietaDiaria.Generics.Domain;
 using FluentValidation;
 
-namespace DietaDiaria.Domain.Entities
+namespace DietaDiaria.Domain.Users.Entities
 {
     public class User : Entity<long, User>
     {
@@ -21,7 +21,7 @@ namespace DietaDiaria.Domain.Entities
             Name = name;
         }
         
-        public override bool Validar()
+        public override bool Validate()
         {
             RuleFor(_ => _.Username)
                 .NotNull()

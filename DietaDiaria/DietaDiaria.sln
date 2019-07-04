@@ -5,17 +5,21 @@ VisualStudioVersion = 16.0.29020.237
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DietaDiaria.Api", "DietaDiaria\DietaDiaria.Api.csproj", "{022F2339-64AC-4FBF-9106-EC7BB5CB3FE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DietaDiaria.Domain", "DietaDiaria.Domain\DietaDiaria.Domain.csproj", "{AAFE1CA9-E6BE-4005-945A-A2BB8FC4157F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DietaDiaria.Domain", "DietaDiaria.Domain\DietaDiaria.Domain.csproj", "{AAFE1CA9-E6BE-4005-945A-A2BB8FC4157F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DietaDiaria.Infra.Data", "DietaDiaria.Data\DietaDiaria.Infra.Data.csproj", "{60D3E531-498B-4DAD-AA48-546762A43C59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DietaDiaria.Infra.Data", "DietaDiaria.Data\DietaDiaria.Infra.Data.csproj", "{60D3E531-498B-4DAD-AA48-546762A43C59}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{7A9BCFA8-FDC3-4D71-8659-361FF67BA30C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DietaDiaria.Infra.IoC", "DietaDiaria.Infra.IoC\DietaDiaria.Infra.IoC.csproj", "{4A398F11-9BE9-4D46-B477-A39FF764BF37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DietaDiaria.Infra.IoC", "DietaDiaria.Infra.IoC\DietaDiaria.Infra.IoC.csproj", "{4A398F11-9BE9-4D46-B477-A39FF764BF37}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{4BEA5F06-C7C7-4636-86CF-A55F7E3B097F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{7D31167C-0407-4134-916C-3EB00E43402C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Generics", "Generics", "{F5EEC4CE-2237-4091-BE4A-97962913AB5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DietaDiaria.Generics", "DietaDiaria.Generics\DietaDiaria.Generics.csproj", "{99306A7E-5F2F-4C77-9552-EFDABCF8AEFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,10 @@ Global
 		{4A398F11-9BE9-4D46-B477-A39FF764BF37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A398F11-9BE9-4D46-B477-A39FF764BF37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A398F11-9BE9-4D46-B477-A39FF764BF37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99306A7E-5F2F-4C77-9552-EFDABCF8AEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99306A7E-5F2F-4C77-9552-EFDABCF8AEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99306A7E-5F2F-4C77-9552-EFDABCF8AEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99306A7E-5F2F-4C77-9552-EFDABCF8AEFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +56,7 @@ Global
 		{AAFE1CA9-E6BE-4005-945A-A2BB8FC4157F} = {7D31167C-0407-4134-916C-3EB00E43402C}
 		{60D3E531-498B-4DAD-AA48-546762A43C59} = {7A9BCFA8-FDC3-4D71-8659-361FF67BA30C}
 		{4A398F11-9BE9-4D46-B477-A39FF764BF37} = {7A9BCFA8-FDC3-4D71-8659-361FF67BA30C}
+		{99306A7E-5F2F-4C77-9552-EFDABCF8AEFE} = {F5EEC4CE-2237-4091-BE4A-97962913AB5D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9E0857D3-453E-4F9C-8BCF-03B488E16317}

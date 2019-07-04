@@ -107,6 +107,66 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Projects\\dieta-diaria\\DietaDiaria\\DietaDiaria.Generics\\DietaDiaria.Generics.csproj": {
+                "projectPath": "D:\\Projects\\dieta-diaria\\DietaDiaria\\DietaDiaria.Generics\\DietaDiaria.Generics.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Projects\\dieta-diaria\\DietaDiaria\\DietaDiaria.Generics\\DietaDiaria.Generics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\dieta-diaria\\DietaDiaria\\DietaDiaria.Generics\\DietaDiaria.Generics.csproj",
+        "projectName": "DietaDiaria.Generics",
+        "projectPath": "D:\\Projects\\dieta-diaria\\DietaDiaria\\DietaDiaria.Generics\\DietaDiaria.Generics.csproj",
+        "packagesPath": "C:\\Users\\Rogerio\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\dieta-diaria\\DietaDiaria\\DietaDiaria.Generics\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rogerio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
             "projectReferences": {}
           }
         },
@@ -122,6 +182,70 @@
             "FluentValidation": {
               "target": "Package",
               "version": "[8.4.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Projects\\dieta-diaria\\DietaDiaria\\DietaDiaria.Infra.IoC\\DietaDiaria.Infra.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\dieta-diaria\\DietaDiaria\\DietaDiaria.Infra.IoC\\DietaDiaria.Infra.IoC.csproj",
+        "projectName": "DietaDiaria.Infra.IoC",
+        "projectPath": "D:\\Projects\\dieta-diaria\\DietaDiaria\\DietaDiaria.Infra.IoC\\DietaDiaria.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\Rogerio\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\dieta-diaria\\DietaDiaria\\DietaDiaria.Infra.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rogerio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Projects\\dieta-diaria\\DietaDiaria\\DietaDiaria.Data\\DietaDiaria.Infra.Data.csproj": {
+                "projectPath": "D:\\Projects\\dieta-diaria\\DietaDiaria\\DietaDiaria.Data\\DietaDiaria.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -166,6 +290,9 @@
             "projectReferences": {
               "D:\\Projects\\dieta-diaria\\DietaDiaria\\DietaDiaria.Data\\DietaDiaria.Infra.Data.csproj": {
                 "projectPath": "D:\\Projects\\dieta-diaria\\DietaDiaria\\DietaDiaria.Data\\DietaDiaria.Infra.Data.csproj"
+              },
+              "D:\\Projects\\dieta-diaria\\DietaDiaria\\DietaDiaria.Infra.IoC\\DietaDiaria.Infra.IoC.csproj": {
+                "projectPath": "D:\\Projects\\dieta-diaria\\DietaDiaria\\DietaDiaria.Infra.IoC\\DietaDiaria.Infra.IoC.csproj"
               }
             }
           }
@@ -195,6 +322,14 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "NetCore.AutoRegisterDi": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             }
           },
           "imports": [

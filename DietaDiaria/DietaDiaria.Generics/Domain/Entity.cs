@@ -2,7 +2,7 @@
 using FluentValidation.Results;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace DietaDiaria.Domain._Base
+namespace DietaDiaria.Generics.Domain
 {
     public abstract class Entity<TId, TEntity> :
         AbstractValidator<TEntity>
@@ -14,9 +14,7 @@ namespace DietaDiaria.Domain._Base
         [NotMapped]
         public ValidationResult ValidationResult { get; protected set; }
 
-        public short? RegionalId { get; protected set; }
-
-        public abstract bool Validar();
+        public abstract bool Validate();
 
         protected Entity()
         {

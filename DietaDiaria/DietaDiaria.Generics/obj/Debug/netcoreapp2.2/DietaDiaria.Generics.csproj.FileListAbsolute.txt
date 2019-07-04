@@ -1,0 +1,8 @@
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Generics\bin\Debug\netcoreapp2.2\DietaDiaria.Generics.deps.json
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Generics\bin\Debug\netcoreapp2.2\DietaDiaria.Generics.dll
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Generics\bin\Debug\netcoreapp2.2\DietaDiaria.Generics.pdb
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Generics\obj\Debug\netcoreapp2.2\DietaDiaria.Generics.csproj.CoreCompileInputs.cache
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Generics\obj\Debug\netcoreapp2.2\DietaDiaria.Generics.AssemblyInfoInputs.cache
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Generics\obj\Debug\netcoreapp2.2\DietaDiaria.Generics.AssemblyInfo.cs
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Generics\obj\Debug\netcoreapp2.2\DietaDiaria.Generics.dll
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Generics\obj\Debug\netcoreapp2.2\DietaDiaria.Generics.pdb

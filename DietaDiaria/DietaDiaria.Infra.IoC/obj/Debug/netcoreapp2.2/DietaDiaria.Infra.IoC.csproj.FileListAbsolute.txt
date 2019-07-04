@@ -1,8 +1,16 @@
 D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Infra.IoC\bin\Debug\netcoreapp2.2\DietaDiaria.Infra.IoC.deps.json
 D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Infra.IoC\bin\Debug\netcoreapp2.2\DietaDiaria.Infra.IoC.dll
 D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Infra.IoC\bin\Debug\netcoreapp2.2\DietaDiaria.Infra.IoC.pdb
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Infra.IoC\bin\Debug\netcoreapp2.2\DietaDiaria.Domain.dll
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Infra.IoC\bin\Debug\netcoreapp2.2\DietaDiaria.Generics.dll
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Infra.IoC\bin\Debug\netcoreapp2.2\DietaDiaria.Infra.Data.dll
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Infra.IoC\bin\Debug\netcoreapp2.2\DietaDiaria.Infra.Data.pdb
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Infra.IoC\bin\Debug\netcoreapp2.2\DietaDiaria.Domain.pdb
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Infra.IoC\bin\Debug\netcoreapp2.2\DietaDiaria.Generics.pdb
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Infra.IoC\obj\Debug\netcoreapp2.2\DietaDiaria.Infra.IoC.csprojAssemblyReference.cache
 D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Infra.IoC\obj\Debug\netcoreapp2.2\DietaDiaria.Infra.IoC.csproj.CoreCompileInputs.cache
 D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Infra.IoC\obj\Debug\netcoreapp2.2\DietaDiaria.Infra.IoC.AssemblyInfoInputs.cache
 D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Infra.IoC\obj\Debug\netcoreapp2.2\DietaDiaria.Infra.IoC.AssemblyInfo.cs
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Infra.IoC\obj\Debug\netcoreapp2.2\DietaDiaria.Infra.IoC.csproj.CopyComplete
 D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Infra.IoC\obj\Debug\netcoreapp2.2\DietaDiaria.Infra.IoC.dll
 D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Infra.IoC\obj\Debug\netcoreapp2.2\DietaDiaria.Infra.IoC.pdb

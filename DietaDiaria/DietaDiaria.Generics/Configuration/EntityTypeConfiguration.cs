@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace DietaDiaria.Infra.Data._Base
+namespace DietaDiaria.Generics.Configuration
 {
     public abstract class EntityTypeConfiguration<TEntity> where TEntity : class
     {

@@ -1,6 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using DietaDiaria.Generics.Configuration;
+using Microsoft.EntityFrameworkCore;
 
-namespace DietaDiaria.Infra.Data._Base
+namespace DietaDiaria.Generics.Extensions
 {
     public static class ModelBuilderExtensions
     {

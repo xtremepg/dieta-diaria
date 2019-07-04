@@ -1,5 +1,5 @@
-﻿using DietaDiaria.Domain.Entities;
-using DietaDiaria.Infra.Data._Base;
+﻿using DietaDiaria.Domain.Users.Entities;
+using DietaDiaria.Generics.Configuration;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
