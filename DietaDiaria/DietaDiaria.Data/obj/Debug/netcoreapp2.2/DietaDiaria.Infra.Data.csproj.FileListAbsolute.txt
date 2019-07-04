@@ -1,0 +1,14 @@
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Data\bin\Debug\netcoreapp2.2\DietaDiaria.Infra.Data.deps.json
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Data\bin\Debug\netcoreapp2.2\DietaDiaria.Infra.Data.runtimeconfig.json
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Data\bin\Debug\netcoreapp2.2\DietaDiaria.Infra.Data.runtimeconfig.dev.json
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Data\bin\Debug\netcoreapp2.2\DietaDiaria.Infra.Data.dll
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Data\bin\Debug\netcoreapp2.2\DietaDiaria.Infra.Data.pdb
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Data\bin\Debug\netcoreapp2.2\DietaDiaria.Domain.dll
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Data\bin\Debug\netcoreapp2.2\DietaDiaria.Domain.pdb
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Data\obj\Debug\netcoreapp2.2\DietaDiaria.Infra.Data.csprojAssemblyReference.cache
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Data\obj\Debug\netcoreapp2.2\DietaDiaria.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Data\obj\Debug\netcoreapp2.2\DietaDiaria.Infra.Data.AssemblyInfoInputs.cache
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Data\obj\Debug\netcoreapp2.2\DietaDiaria.Infra.Data.AssemblyInfo.cs
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Data\obj\Debug\netcoreapp2.2\DietaDiaria.Infra.Data.csproj.CopyComplete
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Data\obj\Debug\netcoreapp2.2\DietaDiaria.Infra.Data.dll
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Data\obj\Debug\netcoreapp2.2\DietaDiaria.Infra.Data.pdb

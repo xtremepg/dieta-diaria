@@ -1,0 +1,8 @@
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Infra.IoC\bin\Debug\netcoreapp2.2\DietaDiaria.Infra.IoC.deps.json
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Infra.IoC\bin\Debug\netcoreapp2.2\DietaDiaria.Infra.IoC.dll
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Infra.IoC\bin\Debug\netcoreapp2.2\DietaDiaria.Infra.IoC.pdb
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Infra.IoC\obj\Debug\netcoreapp2.2\DietaDiaria.Infra.IoC.csproj.CoreCompileInputs.cache
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Infra.IoC\obj\Debug\netcoreapp2.2\DietaDiaria.Infra.IoC.AssemblyInfoInputs.cache
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Infra.IoC\obj\Debug\netcoreapp2.2\DietaDiaria.Infra.IoC.AssemblyInfo.cs
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Infra.IoC\obj\Debug\netcoreapp2.2\DietaDiaria.Infra.IoC.dll
+D:\Projects\dieta-diaria\DietaDiaria\DietaDiaria.Infra.IoC\obj\Debug\netcoreapp2.2\DietaDiaria.Infra.IoC.pdb
