@@ -1,7 +1,6 @@
-﻿using DietaDiaria.Domain.Users.Entities;
+﻿using DietaDiaria.Domain.Users.Dtos;
 using DietaDiaria.Domain.Users.Interfaces;
 using Microsoft.AspNetCore.Mvc;
-using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -21,10 +20,11 @@ namespace DietaDiaria.Api.Controllers
         public IUserRepository UserRepository { get; }
 
         [HttpGet]
-        public async Task<List<User>> Get()
+        public async Task<IActionResult> Get()
         {
             var result = await _userRepository.ToListAsync();
-            return result.ToList();
+            var users = result.Select(user => UserDto.Cast(user)).ToList();
+            return Ok(users);
         }
     }
 }
